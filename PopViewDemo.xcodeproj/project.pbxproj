@@ -15,6 +15,19 @@
 		0DC2CD261E07C50C00844566 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD241E07C50C00844566 /* LaunchScreen.storyboard */; };
 		0DC2CD311E07C50C00844566 /* PopViewDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DC2CD301E07C50C00844566 /* PopViewDemoTests.m */; };
 		0DC2CD3C1E07C50C00844566 /* PopViewDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DC2CD3B1E07C50C00844566 /* PopViewDemoUITests.m */; };
+		0DC2CD501E07C52000844566 /* PopoverAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DC2CD4B1E07C52000844566 /* PopoverAction.m */; };
+		0DC2CD511E07C52000844566 /* PopoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DC2CD4D1E07C52000844566 /* PopoverView.m */; };
+		0DC2CD521E07C52000844566 /* PopoverViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DC2CD4F1E07C52000844566 /* PopoverViewCell.m */; };
+		0DC2CD541E07CB2100844566 /* contacts_add_friend@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD531E07CB2100844566 /* contacts_add_friend@2x.png */; };
+		0DC2CD561E07CB2800844566 /* contacts_add_money@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD551E07CB2800844566 /* contacts_add_money@2x.png */; };
+		0DC2CD581E07CB2F00844566 /* contacts_add_newmessage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD571E07CB2F00844566 /* contacts_add_newmessage@2x.png */; };
+		0DC2CD5A1E07CB3600844566 /* contacts_add_scan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD591E07CB3600844566 /* contacts_add_scan@2x.png */; };
+		0DC2CD5C1E07CB3E00844566 /* navigationItem_menu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD5B1E07CB3E00844566 /* navigationItem_menu@2x.png */; };
+		0DC2CD5E1E07CB4400844566 /* right_menu_addFri@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD5D1E07CB4400844566 /* right_menu_addFri@2x.png */; };
+		0DC2CD601E07CB4A00844566 /* right_menu_facetoface@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD5F1E07CB4A00844566 /* right_menu_facetoface@2x.png */; };
+		0DC2CD621E07CB5000844566 /* right_menu_multichat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD611E07CB5000844566 /* right_menu_multichat@2x.png */; };
+		0DC2CD641E07CB5600844566 /* right_menu_payMoney@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD631E07CB5600844566 /* right_menu_payMoney@2x.png */; };
+		0DC2CD661E07CB5C00844566 /* right_menu_QR@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DC2CD651E07CB5C00844566 /* right_menu_QR@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,22 @@
 		0DC2CD371E07C50C00844566 /* PopViewDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PopViewDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DC2CD3B1E07C50C00844566 /* PopViewDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PopViewDemoUITests.m; sourceTree = "<group>"; };
 		0DC2CD3D1E07C50C00844566 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0DC2CD4A1E07C52000844566 /* PopoverAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopoverAction.h; sourceTree = "<group>"; };
+		0DC2CD4B1E07C52000844566 /* PopoverAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopoverAction.m; sourceTree = "<group>"; };
+		0DC2CD4C1E07C52000844566 /* PopoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopoverView.h; sourceTree = "<group>"; };
+		0DC2CD4D1E07C52000844566 /* PopoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopoverView.m; sourceTree = "<group>"; };
+		0DC2CD4E1E07C52000844566 /* PopoverViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopoverViewCell.h; sourceTree = "<group>"; };
+		0DC2CD4F1E07C52000844566 /* PopoverViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopoverViewCell.m; sourceTree = "<group>"; };
+		0DC2CD531E07CB2100844566 /* contacts_add_friend@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "contacts_add_friend@2x.png"; sourceTree = "<group>"; };
+		0DC2CD551E07CB2800844566 /* contacts_add_money@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "contacts_add_money@2x.png"; sourceTree = "<group>"; };
+		0DC2CD571E07CB2F00844566 /* contacts_add_newmessage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "contacts_add_newmessage@2x.png"; sourceTree = "<group>"; };
+		0DC2CD591E07CB3600844566 /* contacts_add_scan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "contacts_add_scan@2x.png"; sourceTree = "<group>"; };
+		0DC2CD5B1E07CB3E00844566 /* navigationItem_menu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navigationItem_menu@2x.png"; sourceTree = "<group>"; };
+		0DC2CD5D1E07CB4400844566 /* right_menu_addFri@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right_menu_addFri@2x.png"; sourceTree = "<group>"; };
+		0DC2CD5F1E07CB4A00844566 /* right_menu_facetoface@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right_menu_facetoface@2x.png"; sourceTree = "<group>"; };
+		0DC2CD611E07CB5000844566 /* right_menu_multichat@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right_menu_multichat@2x.png"; sourceTree = "<group>"; };
+		0DC2CD631E07CB5600844566 /* right_menu_payMoney@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right_menu_payMoney@2x.png"; sourceTree = "<group>"; };
+		0DC2CD651E07CB5C00844566 /* right_menu_QR@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "right_menu_QR@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +130,17 @@
 		0DC2CD151E07C50C00844566 /* PopViewDemo */ = {
 			isa = PBXGroup;
 			children = (
+				0DC2CD531E07CB2100844566 /* contacts_add_friend@2x.png */,
+				0DC2CD551E07CB2800844566 /* contacts_add_money@2x.png */,
+				0DC2CD571E07CB2F00844566 /* contacts_add_newmessage@2x.png */,
+				0DC2CD591E07CB3600844566 /* contacts_add_scan@2x.png */,
+				0DC2CD5B1E07CB3E00844566 /* navigationItem_menu@2x.png */,
+				0DC2CD5D1E07CB4400844566 /* right_menu_addFri@2x.png */,
+				0DC2CD5F1E07CB4A00844566 /* right_menu_facetoface@2x.png */,
+				0DC2CD611E07CB5000844566 /* right_menu_multichat@2x.png */,
+				0DC2CD631E07CB5600844566 /* right_menu_payMoney@2x.png */,
+				0DC2CD651E07CB5C00844566 /* right_menu_QR@2x.png */,
+				0DC2CD491E07C52000844566 /* PopoverView */,
 				0DC2CD191E07C50C00844566 /* AppDelegate.h */,
 				0DC2CD1A1E07C50C00844566 /* AppDelegate.m */,
 				0DC2CD1C1E07C50C00844566 /* ViewController.h */,
@@ -138,6 +178,19 @@
 				0DC2CD3D1E07C50C00844566 /* Info.plist */,
 			);
 			path = PopViewDemoUITests;
+			sourceTree = "<group>";
+		};
+		0DC2CD491E07C52000844566 /* PopoverView */ = {
+			isa = PBXGroup;
+			children = (
+				0DC2CD4A1E07C52000844566 /* PopoverAction.h */,
+				0DC2CD4B1E07C52000844566 /* PopoverAction.m */,
+				0DC2CD4C1E07C52000844566 /* PopoverView.h */,
+				0DC2CD4D1E07C52000844566 /* PopoverView.m */,
+				0DC2CD4E1E07C52000844566 /* PopoverViewCell.h */,
+				0DC2CD4F1E07C52000844566 /* PopoverViewCell.m */,
+			);
+			path = PopoverView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,7 +297,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0DC2CD261E07C50C00844566 /* LaunchScreen.storyboard in Resources */,
+				0DC2CD601E07CB4A00844566 /* right_menu_facetoface@2x.png in Resources */,
+				0DC2CD641E07CB5600844566 /* right_menu_payMoney@2x.png in Resources */,
+				0DC2CD661E07CB5C00844566 /* right_menu_QR@2x.png in Resources */,
+				0DC2CD5A1E07CB3600844566 /* contacts_add_scan@2x.png in Resources */,
+				0DC2CD5C1E07CB3E00844566 /* navigationItem_menu@2x.png in Resources */,
+				0DC2CD541E07CB2100844566 /* contacts_add_friend@2x.png in Resources */,
+				0DC2CD5E1E07CB4400844566 /* right_menu_addFri@2x.png in Resources */,
+				0DC2CD581E07CB2F00844566 /* contacts_add_newmessage@2x.png in Resources */,
 				0DC2CD231E07C50C00844566 /* Assets.xcassets in Resources */,
+				0DC2CD621E07CB5000844566 /* right_menu_multichat@2x.png in Resources */,
+				0DC2CD561E07CB2800844566 /* contacts_add_money@2x.png in Resources */,
 				0DC2CD211E07C50C00844566 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,9 +333,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0DC2CD521E07C52000844566 /* PopoverViewCell.m in Sources */,
 				0DC2CD1E1E07C50C00844566 /* ViewController.m in Sources */,
+				0DC2CD511E07C52000844566 /* PopoverView.m in Sources */,
 				0DC2CD1B1E07C50C00844566 /* AppDelegate.m in Sources */,
 				0DC2CD181E07C50C00844566 /* main.m in Sources */,
+				0DC2CD501E07C52000844566 /* PopoverAction.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +478,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = PopViewDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.PopViewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -423,6 +490,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = PopViewDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.test.PopViewDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
